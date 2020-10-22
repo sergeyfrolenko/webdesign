@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #5cdb95;
+}
+.content {
+  width: 90%;
+  max-width: 890px;
+  margin: 0 auto;
+}

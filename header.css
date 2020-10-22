@@ -1,0 +1,18 @@
+header .content {
+  display: flex;
+  flex-direction: row-reverse;
+}
+header ul {
+  display: flex; 
+}
+header li {
+  list-style: none;
+  margin-right: 5px;
+}
+header a {
+  padding: 5px;
+  text-decoration: none;
+  font-size: 32px;
+  color: #05386b;
+  background: #8ee4af;
+}
